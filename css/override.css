@@ -20,6 +20,14 @@ hr {
   color: inherit !important;
 }
 
+img {
+    display: block;
+    float: none;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
 .post_navi .nav_prev {
   text-align: left;
 }
