@@ -33,3 +33,6 @@ ForEach ($thing in $things) {
 
 ![Imgur Image](http://i.imgur.com/tXtwrPd.jpg)
 
+[Read the news](https://www.nytimes.com/)
+
+ <! -- use markdown language sytax -->
