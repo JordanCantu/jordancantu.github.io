@@ -1,6 +1,6 @@
 Past the noisy clamor, 
 
-buried under the dust of clutter,
+buried under clutter's dust,
 
 is our small, happy life.
 
